@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1021674957287",
+    "firebase_url": "https://jindalemployee.firebaseio.com",
+    "project_id": "jindalemployee",
+    "storage_bucket": "jindalemployee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021674957287:android:fb44e721c766c571",
+        "android_client_info": {
+          "package_name": "com.aequmindia.mdm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021674957287-fuqc367mnljuud2o8rtdg0r5803pbigc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOT7Kq6m3kX_4rUDITWDFc3MSl-wokysM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
